@@ -16,6 +16,17 @@ a {
   color: #ff79c6;
 }
 
+.short-description {
+    color: #8be9fd;
+}
+
+.img-avatar {
+    width: 128px;
+    border-radius: 50%;
+    border: #f8f8f2;
+    border-style: solid;
+}
+
 .email {
   color: #ffb86c;
 }
